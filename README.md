@@ -1,5 +1,7 @@
 # PyRPG
 
+Este proyecto fue concebido durante el desarrollo del bootcamp de Python de Escuelita.dev, y se solicita pedir permiso para utilizarlo en cualquier otra circunstancia pública o semipública. Si vas a usarlo para aprender en privado, adelante.
+
 ![Esquemático del proyecto](esquemático.png)
 
 Les damos la bienvenida a este rpg de consola, que va a ser el escenario de la consolidación de nuestro aprendizaje sobre desarrollo de aplicaciones mediante el *paradigma de objetos*. O sea nuestro TP de objetos.
