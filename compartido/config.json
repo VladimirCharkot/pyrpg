@@ -1,0 +1,5 @@
+{
+  "delay_progresivo" : 0.01,
+  "delay_progresivo_final" : 0.5,
+  "silencioso" : false
+}
