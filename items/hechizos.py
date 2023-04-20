@@ -31,7 +31,7 @@ class Cura:
     def efecto(objetivo):
         recupera = tirada('6d6')
         progresivo(f'Cura recupera {recupera} puntos de vida a {objetivo.nombre}!')
-        objetivo.hp -= recupera
+        objetivo.hp += recupera
 
 class Ruleta:
     nombre = 'Ruleta'

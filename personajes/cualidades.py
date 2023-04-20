@@ -20,6 +20,10 @@ class Criatura:
     def vivo(self):
         return self.hp > 0
 
+    def sanar(self):
+        self.hp = self.hp_max
+        self.mp = self.mp_max
+
     @property
     def hp(self):
         return self._hp
